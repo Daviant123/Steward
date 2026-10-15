@@ -26,8 +26,8 @@ VanguardControl folder again.
 ## What it sends to the game
 
 Only normal commands, the same ones you could type: `/ma`, `/ja`, `/ws`, `/ra`, `/attack`, `/pcmd`, `/mount`,
-`/heal` and so on, plus walking (Windower's run, like the follow addons). No packets are injected. The characters talk to each other and to the panel
-only on your own PC (Windower's IPC and a local UDP port, 127.0.0.1:47000).
+`/heal` and so on, plus walking (Windower's run, like the follow addons). No packets are injected. The characters
+talk to each other and to the panel only on your own PC (Windower's IPC and a local UDP port, 127.0.0.1:47000).
 
 ---
 

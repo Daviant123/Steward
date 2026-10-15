@@ -7,9 +7,7 @@ and a search across all your characters. Window: `//stw`. Commands: `//stw help`
 ## Install
 
 1. Download this page (green **Code** button > **Download ZIP**) and put the files in `Windower\addons\Steward\`
-   (so you have `Windower\addons\Steward\Steward.lua`). The **Vanguard** and **VanguardControl** folders
-   are a separate addon (a multibox party assistant): leave them out of the Steward folder; see
-   `Vanguard\README.md` if you want it.
+   (so you have `Windower\addons\Steward\Steward.lua`).
 2. In game: `//lua load steward`. Nothing is moved until you say so: `//stw start` turns automatic sorting on,
    `//stw sort` does one pass.
 
